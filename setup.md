@@ -7,7 +7,7 @@ title: Setup
 This lesson assumes you have reasonably up-to-date versions of the following software installed on your computer:
 
 - the [R software](https://cran.r-project.org/mirrors.html) itself,
-- [RStudio Desktop](https://www.rstudio.com/products/rstudio/download/#download),
+- [RStudio Desktop](https://ww.rstudio.com/products/rstudio/download/#download),
 - [Rtools](https://cran.r-project.org/bin/windows/Rtools/) (Windows users only).
 
 ## Required R Packages
