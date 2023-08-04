@@ -5,7 +5,7 @@ exercises: 0
 ---
 
 ::: questions
-- "What is a R package?"
+- "What is an R package?"
 - "Why do we want a R package?"
 :::
 
