@@ -5,8 +5,8 @@ exercises: 0
 ---
 
 ::: questions
-- "What is a Python package?"
-- "Why do we want a Python package?"
+- "What is an R package?"
+- "Why do we want an R package?"
 :::
 
 ::: objectives
