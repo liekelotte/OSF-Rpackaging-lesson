@@ -5,8 +5,8 @@ exercises: 0
 ---
 
 ::: questions
-- "What is a package?"
-- "Why do we want a package?"
+- "What is a Python package?"
+- "Why do we want a Python package?"
 :::
 
 ::: objectives
