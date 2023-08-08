@@ -37,7 +37,7 @@ Source [here](https://drive.google.com/file/d/1v4s5pZE6unPlrqsB5DLN1kGLkrVNBX8e/
 - Polished several minor issues.
 - We have a beta!
 ### Early autumn sprint
-20-23 September 2021. Pablo Rodríguez-Sánchez, Mateusz Kuzak
+20-23 September 2021. Pablo Rodríguez-Sánchez & Mateusz Kuzak
 - Write 2 draft episodes
     - Dependencies
     - Data
