@@ -14,7 +14,7 @@ Often, she sees herself struggling with coding problems. That’s ok, just life,
 
  
 
-**Mzkizi Johnson** is an environmental scientist who is used to working with Python. He’s getting involved in a new project, which involves the use of statistic packages of R, so he would like to get an introduction to R and the best practices of it. 
+**Mzkizi Johnson** is an environmental scientist who is used to working with Python. He’s getting involved in a new project, which involves the use of statistical packages of R, so he would like to get an introduction to R and the best practices of it. 
 
  
 
