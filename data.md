@@ -9,7 +9,7 @@ exercises: 20
 :::
 
 ::: objectives
-- Learn how to use the data folder
+- Learn how to use the `data` folder.
 :::
 
 
