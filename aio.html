@@ -606,7 +606,7 @@ that may be useful in some cases.</p>
 <section id="install-a-package-from-cran"><h2 class="section-heading">Install a package from CRAN<a class="anchor" aria-label="anchor" href="#install-a-package-from-cran"></a>
 </h2>
 <hr class="half-width">
-<p><a href="https://cran.r_project.org/" class="external-link">CRAN</a> is the official
+<p><a href="https://cran.r-project.org/" class="external-link">CRAN</a> is the official
 repository for R Packages. It stands for the <em>Comprehensive R Archive
 Network</em>. It is an awesome collection of high quality resources
 written by other R users just like you.</p>
@@ -714,7 +714,7 @@ while we are performing operations in the graphical user interface.</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>Use <code>library(&lt;package name&gt;)</code></p>
 </div>
@@ -763,7 +763,7 @@ a package.</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>The dependencies of a package can become tricky. A common problem is
 that two packages may contain two functions with the same name. The more
@@ -810,7 +810,7 @@ GitLab. For instance, try <a href="https://gitlab.com/r-packages/psyverse" class
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution3" class="accordion-collapse collapse" data-bs-parent="#accordionSolution3" aria-labelledby="headingSolution3">
+<div id="collapseSolution3" class="accordion-collapse collapse" aria-labelledby="headingSolution3" data-bs-parent="#accordionSolution3">
 <div class="accordion-body">
 <pre><code><span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">install_github</span><span class="op">(</span><span class="st">"PabRod/kinematics"</span><span class="op">)</span></span>
 <span><span class="fu">devtools</span><span class="fu">::</span><span class="fu">install_gitlab</span><span class="op">(</span><span class="st">"r-packages/psyverse"</span><span class="op">)</span></span>
@@ -849,7 +849,7 @@ than from CRAN?</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution4" class="accordion-collapse collapse" data-bs-parent="#accordionSolution4" aria-labelledby="headingSolution4">
+<div id="collapseSolution4" class="accordion-collapse collapse" aria-labelledby="headingSolution4" data-bs-parent="#accordionSolution4">
 <div class="accordion-body">
 <p>There are two common situations where you’ll want to use GitHub
 instead of CRAN:</p>
@@ -902,7 +902,7 @@ a package from source?</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution5" class="accordion-collapse collapse" data-bs-parent="#accordionSolution5" aria-labelledby="headingSolution5">
+<div id="collapseSolution5" class="accordion-collapse collapse" aria-labelledby="headingSolution5" data-bs-parent="#accordionSolution5">
 <div class="accordion-body">
 <p>The most common situation is while you are developing a package.
 Every now and then, you’ll want to re-install and re-attach it to check
@@ -1113,7 +1113,7 @@ that it works differently.</li>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
 <div class="accordion-body">
 <div class="codewrapper sourceCode" id="cb2">
 <h3 class="code-label">R<i aria-hidden="true" data-feather="chevron-left"></i><i aria-hidden="true" data-feather="chevron-right"></i>
@@ -1355,7 +1355,7 @@ particular, edit the following fields (when needed): <code>Title</code>,
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>After editing, your <code>DESCRIPTION</code> file should look similar
 to:</p>
@@ -1648,7 +1648,7 @@ Which function did you use?</li>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <ol style="list-style-type: decimal">
 <li>
@@ -2716,8 +2716,8 @@ updates the <code>DESCRIPTION</code>.</p>
 </h3>
 <div class="callout-content">
 <ul>
-<li>The <code>DESCRIPTION</code> file helps us keeping track of our
-package’s dependencies</li>
+<li>The <code>DESCRIPTION</code> file helps us keep track of our
+package’s dependencies.</li>
 </ul>
 </div>
 </div>
@@ -3173,7 +3173,7 @@ it do? Does it require any further action from our side?</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>It provides a very informative output. Probably you’ll see something
 like this:</p>
@@ -3267,7 +3267,7 @@ not have the <code>.rda</code> or <code>.RData</code> extensions?</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>Having files without the <em>R</em> extensions is useful when one of
 the main purposes of the package is to read external files. For
@@ -3376,7 +3376,7 @@ worth it?</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are several reasons that make the use of vignettes a very good
 idea for writing research. For instance: - It keeps all the work tidy in
@@ -3542,7 +3542,7 @@ knitting.</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>This is what I wrote. Of course, your text, and even your code, will
 most likely be different.</p>
@@ -3620,7 +3620,7 @@ of each chunk.</p>
   Show me the solution
   </h4>
 </button>
-<div id="collapseSolution3" class="accordion-collapse collapse" data-bs-parent="#accordionSolution3" aria-labelledby="headingSolution3">
+<div id="collapseSolution3" class="accordion-collapse collapse" aria-labelledby="headingSolution3" data-bs-parent="#accordionSolution3">
 <div class="accordion-body">
 <p>The menu in the upper corner of each chunk allows you to do multiple
 things. Among them, it allows you to fine-control what will happen to
