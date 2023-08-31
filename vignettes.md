@@ -44,8 +44,8 @@ For instance:
 
 ::: callout
 ## Why is everybody talking about reproducibility?
-The [reproducibility crisis](https://en.wikipedia.org/wiki/Replication_crisis) has been in the headlines recently.
-In short, reproducibility crisis means that the results of many scientific studies are difficult or impossible to reproduce in an independent lab (and often even at the same lab they were produced!).
+The [replication crisis](https://en.wikipedia.org/wiki/Replication_crisis) has been in the headlines recently.
+In short, replication crisis means that the results of many scientific studies are difficult or impossible to reproduce in an independent lab (and often even at the same lab they were produced!).
 
 And why is this relevant?
 Because reproducibility is a cornerstone of the scientific method.
