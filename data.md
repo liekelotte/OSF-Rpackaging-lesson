@@ -20,7 +20,7 @@ In some situations, it could be a good idea to include data sets as part of your
 Some packages, indeed, include **only** data.
 
 Take a look, for instance, at the `babynames` package.
-According to [the package description](https://cran.r-project.org/web/packages/babynames/index.html), it contains _"US baby names provided by the SSA"_.
+According to [the package description](https://cran.r-project.org/web/packages/babynames/index.html), it contains _"US baby names provided by the (Social Security Administrations)"_.
 
 In this chapter we will learn how to include some data in our package.
 This can be very useful to ship the data together with the package, in an easy to install way.

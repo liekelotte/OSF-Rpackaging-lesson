@@ -155,5 +155,5 @@ We can add the `dplyr` dependency with `usethis::use_package("dplyr", type = "im
 
 
 ::: keypoints
-- The `DESCRIPTION` file helps us keep track of our package's dependencies.
+- The `DESCRIPTION` file helps us keeping track of our package's dependencies
 :::
