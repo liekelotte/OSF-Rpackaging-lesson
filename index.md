@@ -30,6 +30,6 @@ In order to follow this lesson you will need:
 - To be able to understand simple `R` code.
 - To understand the concept of an `R` function.
 
-In case you are not familiar with the abovementioned topics, please follow first one of [our lessons about R](htps://swcarpentry.github.io/r-novice-inflammation/).
+In case you are not familiar with the abovementioned topics, please follow first one of [our lessons about R](https://swcarpentry.github.io/r-novice-inflammation/).
 
 :::
