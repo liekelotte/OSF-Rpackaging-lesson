@@ -220,7 +220,7 @@ Among them, it allows you to fine-control what will happen to every chunk.
 You can comfortably choose among a combination of execute or not execute the chunk, display the code, the output, or nothing.
 
 By the way, did you notice the effect of choosing one of these options in the file itself?
-When yoy choose, for instance, _show output only_, the parameter `echo=FALSE` will be added to the chunk header.
+When you choose, for instance, _show output only_, the parameter `echo=FALSE` will be added to the chunk header.
 ::::
 :::
 
