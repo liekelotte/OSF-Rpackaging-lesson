@@ -9,7 +9,7 @@ exercises: 20
 :::
 
 ::: objectives
-- Write a readme
+- Write a README
 - Use roxygen2 for creating documentation
 - Use roxygen2 for managing the NAMESPACE file
 :::
