@@ -47,7 +47,7 @@ Standards are more valuable that you may think.
 
 The fact that we are teaching this course in English, for instance, rests on the assumption that you can read English.
 None of the authors of this guide has English as their mother tongue.
-Using English was a **choice**, aimed at maximizing the amount of people able to read this guide.
+Using English was a **choice**, aimed at maximizing the number of people able to read this guide.
 And all of this rests on the fact that English is, nowadays, the standard language of science.
 
 Something similar happens with R packages.
