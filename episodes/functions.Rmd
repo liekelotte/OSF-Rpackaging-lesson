@@ -145,6 +145,6 @@ Be creative and informative! The only rule is that your `.R` files should "live"
 :::
 
 ::: keypoints
-- "It is important to think about **what** we want our package to do (_design_) and **how** to do it (_implementation_). We also want to know **why** we need a new package (_avoid reinventing the wheel_)"
+- "It is important to think about **what** we want our package to do (_design_) and how we want to do it (_implementation_). We also want to know **why** we need a new package (_avoid reinventing the wheel_)"
 - "Functions have to be saved in `.R` files in the R folder"
 :::
