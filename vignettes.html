@@ -305,7 +305,7 @@
       </div>
       <hr></nav><main id="main-content" class="main-content"><div class="container lesson-content">
         <h1>Vignettes</h1>
-        <p>Last updated on 2024-03-12 |
+        <p>Last updated on 2024-03-19 |
         
         <a href="https://github.com/researchsoftwaretrainingNL/OSF-Rpackaging-lesson/edit/main/episodes/vignettes.Rmd" class="external-link">Edit this page <i aria-hidden="true" data-feather="edit"></i></a></p>
         
@@ -371,7 +371,7 @@ worth it?</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution1" aria-expanded="false" aria-controls="collapseSolution1">
   <h4 class="accordion-header" id="headingSolution1">Show me the solution</h4>
 </button>
-<div id="collapseSolution1" class="accordion-collapse collapse" data-bs-parent="#accordionSolution1" aria-labelledby="headingSolution1">
+<div id="collapseSolution1" class="accordion-collapse collapse" aria-labelledby="headingSolution1" data-bs-parent="#accordionSolution1">
 <div class="accordion-body">
 <p>There are several reasons that make the use of vignettes a very good
 idea for writing research. For instance: - It keeps all the work tidy in
@@ -383,13 +383,14 @@ it. In short: reproduce it.</p>
 </div>
 </div>
 </div>
-<div id="callout1" class="callout">
+<div id="why-is-everybody-talking-about-reproducibility" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div class="section level3 callout-title callout-inner">
-<h3 class="callout-title" id="why-is-everybody-talking-about-reproducibility">Why is everybody talking about
-reproducibility?<a class="anchor" aria-label="anchor" href="#why-is-everybody-talking-about-reproducibility"></a></h3>
+<div id="why-is-everybody-talking-about-reproducibility" class="callout-inner">
+<h3 class="callout-title">Why is everybody talking about
+reproducibility?<a class="anchor" aria-label="anchor" href="#why-is-everybody-talking-about-reproducibility"></a>
+</h3>
 <div class="callout-content">
 <p>The <a href="https://en.wikipedia.org/wiki/Replication_crisis" class="external-link">replication
 crisis</a> has been in the headlines recently. In short, replication
@@ -410,12 +411,13 @@ are literally not scientific.</p>
 name is self-descriptive: it is a file that combines
 <strong>code</strong> (in <code>R</code>) and <strong>text</strong> (in
 <code>markdown</code>).</p>
-<div id="callout2" class="callout">
+<div id="what-is-markdown" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div class="section level3 callout-title callout-inner">
-<h3 class="callout-title" id="what-is-markdown">What is markdown?<a class="anchor" aria-label="anchor" href="#what-is-markdown"></a></h3>
+<div id="what-is-markdown" class="callout-inner">
+<h3 class="callout-title">What is markdown?<a class="anchor" aria-label="anchor" href="#what-is-markdown"></a>
+</h3>
 <div class="callout-content">
 <p>Markdown is a way of creating formatted text using a plain-text
 editor. Actually, it looks a lot like plain text, but with some special
@@ -464,13 +466,14 @@ document. And RStudio has a button for that. Let’s press it and see what
 happens.</p>
 <figure><img src="fig/knit.gif" alt="Knitting" class="figure mx-auto d-block"><div class="figcaption">Knitting</div>
 </figure><p>Great, isn’t it?</p>
-<div id="callout3" class="callout">
+<div id="can-i-knit-markdown-files-to-other-formats-than-html" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div class="section level3 callout-title callout-inner">
-<h3 class="callout-title" id="can-i-knit-markdown-files-to-other-formats-than-html">Can I knit markdown files to other formats
-than html?<a class="anchor" aria-label="anchor" href="#can-i-knit-markdown-files-to-other-formats-than-html"></a></h3>
+<div id="can-i-knit-markdown-files-to-other-formats-than-html" class="callout-inner">
+<h3 class="callout-title">Can I knit markdown files to other formats
+than html?<a class="anchor" aria-label="anchor" href="#can-i-knit-markdown-files-to-other-formats-than-html"></a>
+</h3>
 <div class="callout-content">
 <p>Yes, and surprisingly easy indeed. Just take a look a the expanded
 menu of the knitting button.</p>
@@ -479,13 +482,14 @@ additional packages.</p>
 </div>
 </div>
 </div>
-<div id="callout4" class="callout">
+<div id="can-i-use-vignettes-with-other-language-than-r" class="callout">
 <div class="callout-square">
 <i class="callout-icon" data-feather="bell"></i>
 </div>
-<div class="section level3 callout-title callout-inner">
-<h3 class="callout-title" id="can-i-use-vignettes-with-other-language-than-r">Can I use vignettes with other language than
-R?<a class="anchor" aria-label="anchor" href="#can-i-use-vignettes-with-other-language-than-r"></a></h3>
+<div id="can-i-use-vignettes-with-other-language-than-r" class="callout-inner">
+<h3 class="callout-title">Can I use vignettes with other language than
+R?<a class="anchor" aria-label="anchor" href="#can-i-use-vignettes-with-other-language-than-r"></a>
+</h3>
 <div class="callout-content">
 <p>Yes, although this is advanced material that we’ll not cover in
 detail in this course.</p>
@@ -529,7 +533,7 @@ knitting.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution2" aria-expanded="false" aria-controls="collapseSolution2">
   <h4 class="accordion-header" id="headingSolution2">Show me the solution</h4>
 </button>
-<div id="collapseSolution2" class="accordion-collapse collapse" data-bs-parent="#accordionSolution2" aria-labelledby="headingSolution2">
+<div id="collapseSolution2" class="accordion-collapse collapse" aria-labelledby="headingSolution2" data-bs-parent="#accordionSolution2">
 <div class="accordion-body">
 <p>This is what I wrote. Of course, your text, and even your code, will
 most likely be different.</p>
@@ -605,7 +609,7 @@ of each chunk.</p>
 <button class="accordion-button solution-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSolution3" aria-expanded="false" aria-controls="collapseSolution3">
   <h4 class="accordion-header" id="headingSolution3">Show me the solution</h4>
 </button>
-<div id="collapseSolution3" class="accordion-collapse collapse" data-bs-parent="#accordionSolution3" aria-labelledby="headingSolution3">
+<div id="collapseSolution3" class="accordion-collapse collapse" aria-labelledby="headingSolution3" data-bs-parent="#accordionSolution3">
 <div class="accordion-body">
 <p>The menu in the upper corner of each chunk allows you to do multiple
 things. Among them, it allows you to fine-control what will happen to
@@ -671,7 +675,7 @@ any links that you are not going to use.
         <p>Materials licensed under <a href="LICENSE.html">CC-BY 4.0</a> by the authors</p>
         
         <p>Template licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="external-link">CC-BY 4.0</a> by <a href="https://carpentries.org/" class="external-link">The Carpentries</a></p>
-        <p>Built with <a href="https://github.com/carpentries/sandpaper/tree/0.16.2" class="external-link">sandpaper (0.16.2)</a>, <a href="https://github.com/carpentries/pegboard/tree/0.7.4" class="external-link">pegboard (0.7.4)</a>, and <a href="https://github.com/carpentries/varnish/tree/1.0.1" class="external-link">varnish (1.0.1)</a></p>
+        <p>Built with <a href="https://github.com/carpentries/sandpaper/tree/0.16.3" class="external-link">sandpaper (0.16.3)</a>, <a href="https://github.com/carpentries/pegboard/tree/0.7.4" class="external-link">pegboard (0.7.4)</a>, and <a href="https://github.com/carpentries/varnish/tree/1.0.1" class="external-link">varnish (1.0.1)</a></p>
 			</div>
 		</footer></div> <!-- / div.container -->
 	<div id="to-top">
@@ -693,8 +697,8 @@ any links that you are not going to use.
   "url": "https://researchsoftwaretrainingNL.github.io/OSF-Rpackaging-lesson/vignettes.html",
   "identifier": "https://researchsoftwaretrainingNL.github.io/OSF-Rpackaging-lesson/vignettes.html",
   "dateCreated": "2021-02-19",
-  "dateModified": "2024-03-12",
-  "datePublished": "2024-03-12"
+  "dateModified": "2024-03-19",
+  "datePublished": "2024-03-19"
 }
 
   </script><script>
