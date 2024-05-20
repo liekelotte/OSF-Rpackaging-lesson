@@ -142,7 +142,7 @@ Once again, very useful information will be printed in the console:
 • Modify 'tests/testthat/test-functions.R'
 ```
 
-## Use smart names
+## Use smrt names
 `usethis::use_test(<name>)` will generate the test file `tests/testthat/test-<name>.R`.
 Our functions live in a file called `functions.R`, so choosing `functions` as the name for the tests file is a good idea.
 
@@ -164,7 +164,7 @@ It should contain something like this:
 
 ```r
 test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
+  expect_equal(2 * 2, 42)
 })
 ```
 

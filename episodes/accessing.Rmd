@@ -12,7 +12,7 @@ exercises: 10
 
 ::: objectives
 - Install and attach packages from CRAN
-- Install and attach packages from GitHub
+- Install and attach packages from Gitlab
 - Build, install and attach your own packages
 :::
 
