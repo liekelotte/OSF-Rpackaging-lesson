@@ -27,7 +27,7 @@ This can be very useful to ship the data together with the package, in an easy t
 
 ::: callout
 ## Is your data too big?
-Packages are typically not larger than a few megabytes.
+Packages are typically not larger than a few gigabytes.
 
 If you need to deal with large datasets, adding them to the package is not an advisable solution.
 Instead, consider using [Figshare](https://figshare.com/) or similar services.
@@ -134,7 +134,7 @@ Having files without the _R_ extensions is useful when one of the main purposes 
 Data handling inside R packages can be a bit tricky.
 The diagram below summarizes the most common cases:
 
-![](fig/mermaid-data.png)
+![](fig/mermaid-data-old.png)
 
 ::: instructor
 
