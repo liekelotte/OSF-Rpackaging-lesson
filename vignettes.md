@@ -151,7 +151,7 @@ This is what I wrote.
 Of course, your text, and even your code, will most likely be different.
 
 
-````markdown
+```` markdown
 ---
 title: "Example of usage"
 author: "Pablo Rodriguez"
