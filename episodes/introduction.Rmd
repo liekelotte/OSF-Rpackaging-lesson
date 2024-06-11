@@ -10,7 +10,7 @@ exercises: 0
 :::
 
 ::: objectives
-- "Understand what a package is"
+- "Understand what a python package is"
 - "Understand why a package is useful"
 - "Understand the tools you are about to use"
 :::
