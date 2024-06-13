@@ -29,7 +29,7 @@ In most cases, copyright officially belongs to the employer, although the exact 
 depending on the employment contract.
 It is good practice therefore to check whether your employer has a policy for software licensing.
 
-In practice, it is often the case that (University) employees assume copyright of their own work,
+In practice, it is often the case that (university) employees assume copyright of their own work,
 and in the absence of (open source) policy, decide on their own licenses.
 Being thorough and checking with the University's legal department may result in an overly cautious
 response that requires the use of a proprietary license, heavily limiting the options for your package's (re)use.
