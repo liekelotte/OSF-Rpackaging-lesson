@@ -12,7 +12,7 @@ exercises: 30
 - Understand why tests are useful
 - Learn how to create a battery of basic tests
 - Learn how to run the tests
-- Learn to not panic if a test fails
+- Learn how not to panic if a test fails
 - Optional: Learn how to perform a code check
 :::
 
