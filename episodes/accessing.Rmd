@@ -27,7 +27,7 @@ At the end of this episode, we'll describe briefly some alternatives that may be
 
 ## Install a package from CRAN
 
-[CRAN](https://cran.r_project.org/) is the official repository for R Packages.
+[CRAN](https://cran.r-project.org/) is the official repository for R Packages.
 It stands for the _Comprehensive R Archive Network_.
 It is an awesome collection of high quality resources written by other R users just like you.
 
