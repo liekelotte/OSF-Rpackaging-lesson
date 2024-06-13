@@ -1,6 +1,6 @@
 # Packaging with R
 
-*We need a sentence here that describes what this lesson is about.*
+This lesson is about creating your own R-package.
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
